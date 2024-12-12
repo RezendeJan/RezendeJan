@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Tecnologias para Ciência de Dados
 <!-- - 📫 Email: janainarezende13@hotmail.com ou Discord: Jan_R#8702 -->
-- 😄 Pronouns: Elu/-e
+
 <!-- - 📫 Discord: Jan_R#8702  / - 🔭 Trabalhando em -->
 
 <div align = "center">
